@@ -8,7 +8,7 @@ spec:
   replicass: 1
   selector:
     matchLabels:
-      appp: nginx
+      app: nginx
   template:
     metadata:
       labels:
